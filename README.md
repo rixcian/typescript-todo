@@ -1,7 +1,7 @@
 # React Typescript Todo
 Simple todo app built with use of React, React Hooks and Typescript.
 
-## Demo
+## Showcase
 
 
 
