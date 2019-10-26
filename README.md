@@ -1,9 +1,9 @@
 # React Typescript Todo
-Simple todo app built with use of React, React Hooks and Typescript.
+Simple todo app built with use of React, React Hooks and Typescript. Todos are saved into localStorage.
 
 ## Showcase
 
-
+![Showcase of the app](https://raw.githubusercontent.com/rixcian/typescript-todo/master/media/typescript-todo.gif)
 
 ## Available Scripts
 
