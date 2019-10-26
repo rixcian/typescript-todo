@@ -20,3 +20,22 @@
 .App-link {
   color: #09d3ac;
 }
+
+.btn-add {
+  position: relative;
+  min-width: 32%;
+  margin-left: 15px;
+  text-transform: uppercase;
+  font-weight: 600 !important;
+}
+
+.todo-checkbox {
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.heading-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}

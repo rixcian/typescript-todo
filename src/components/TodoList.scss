@@ -1,0 +1,19 @@
+.todo-list {
+  margin: 0;
+  padding: 0;
+}
+
+.todo-item {
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+  align-items: center;
+}
+
+.btn-remove {
+  font-size: 16px;
+  margin-left: 20px;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
